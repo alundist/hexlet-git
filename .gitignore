@@ -1,1 +1,5 @@
-INFO.md
+.DS_Store
+/logs/*
+!logs/.gitkeep
+/tmp
+*.swp
